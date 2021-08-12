@@ -1,4 +1,5 @@
-import 'dart:io';
+import 'package:universal_io/io.dart';
+
 import 'cookie_jar.dart';
 import 'serializable_cookie.dart';
 
